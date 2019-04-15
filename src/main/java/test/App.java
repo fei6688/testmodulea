@@ -12,5 +12,6 @@ public class App
         System.out.println("哈哈哈");
         System.out.println("嘟嘟嘟");
         System.out.println("嘟嘟嘟666");
+        System.out.println("嘟嘟嘟666");
     }
 }
